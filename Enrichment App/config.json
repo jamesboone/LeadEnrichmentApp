@@ -1,0 +1,25 @@
+{
+    "facebook": {
+        "likes": "fan_count",
+        "username": "",
+        "password": "",
+        "keys": [
+            "EAAEYe9AxZB6WvJejOpAxHLpRo72v2IVOevUluzZBhdYjZAZC6yqDVabSwRVzLlSzp1Yjsu71MjV2Vpw7G0yxDdK2cMzpzTZBLdiZAogMN9K40JxwcnLSehAWpBqe5lko76phcFlZALcGBrftpwUM9aUsZD",
+            "EAAEdzyDpuLZBD4OlthgN57hGsb2HjUiIQR6eTVygCLlfssIjwJcE2L1RZCldMk95PCOsZA1Ev7QdjaE307iruGAZAU5dv3ldw8ev5wZB01utwqjyQZA0N5vkSizA1TXTp4uqOMUYfu7ZCwyGtuFkYa4yJm8Ygzz7AZDZD",
+            "EAAHZAEmIEH1qrALfQQuhe2q8DFlorQGbL2odbJ83K7cu7dF8GPtsDtqG2BEMAU8xuTXBQcnAsO68kulOAB6ZAACtSnrGnhZCZB5pfGgXZAkjsMPHGb4J2CdIxBefppl7aTHkUm4AAmlRwhcKcP458z0ZD",
+            "EAADnZboOybRdns9kegsD4ZBnLr9yif53GXGwdDZC1a9Uar9oTaNtbkabqojXDZCFWjBcqEANb724cl7DioDLmzGZCRr5zxTsVIuAZAyW7nrEoVwETRjlZC3zOdOH3deCAJrZBhwY9EZAYZCPIRGc2kRj498ZD"
+        ]
+    },
+    "redshift": {
+        "host": "",
+        "dbname": "",
+        "user": "",
+        "password": "",
+        "port": ""
+    },
+    "salesforce": {
+        "username": "",
+        "password": "",
+        "token": ""
+    }
+}
